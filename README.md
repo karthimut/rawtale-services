@@ -1,2 +1,2 @@
 # rawtale-services
-Services for RawTale
+Services classes for RawTale
